@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zotero Plugin Compatibility"
+  short_description: "Upgrade and verify Zotero plugins across versions"
+  default_prompt: "Use $zotero-plugin-compatibility to diagnose and safely update this Zotero plugin for a newer Zotero version."
